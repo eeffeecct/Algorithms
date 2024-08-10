@@ -1,3 +1,4 @@
+// O(log(n)) 
 public class BinarySearch {
     public static void main(String[] args) {
         int[] array = {1,6,10,18,19,21,65,78};
